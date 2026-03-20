@@ -207,14 +207,6 @@ SawaSpace provides **legal information, not legal advice**. Haki is an AI assist
 
 ---
 
-## 👩🏾‍💻 Built By
-
-**Priscila Adhiambo** — Founder, SawaSpace
-Nairobi, Kenya 🇰🇪
-
-Geospatial analyst, software developer, and AgriTech entrepreneur.
-Founder of Outgrow | Smart Brains Kenya | Wogi Voices
-
 > *"Every day a woman doesn't know her rights is a day someone gets away with violating them. SawaSpace ends that day."*
 
 ---
